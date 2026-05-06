@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shou-by3mel-el-hawa-what-does-passion-do/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Shou By3mel El Hawa – What Does Passion Do](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
