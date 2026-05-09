@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shou By3mel El Hawa – What Does Passion Do
+
+This log tracks the cryptographic history and versioning for the song **Shou By3mel El Hawa – What Does Passion Do** (shou-by3mel-el-hawa-what-does-passion-do).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T07:55:54.009755 | `v1` | `9eace4797bc12e61633647a41aa1eb6b88dc771c839d86ca0b9b939865924598` | `b1cf81808171a98c5e9a9c80a27ccd1e5dd307f894678ace17555d6ae60f4fbc` | `2026-05-09_shou-by3mel-el-hawa-what-does-passion-do-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
